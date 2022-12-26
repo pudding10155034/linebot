@@ -23,8 +23,8 @@ ID：@287mwgze
 2. 它可以查看最近三個月/兩週的趨勢圖
 3. 它可以幫你判斷現在值不值得換日幣
 
-+ 透過「介紹與說明」，可以查看教學與功能提醒
-![](https://i.imgur.com/gAe92Yj.png)
++ 透過「使用說明」，可以查看教學
+![](https://imgur.com/3LWMzmS.png)
 
 + 透過「即時查詢」，可以看到即時的現金與匯率之買入賣出值
 ![](https://i.imgur.com/ETZQzxg.png)
