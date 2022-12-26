@@ -26,20 +26,15 @@ ID：@287mwgze
 + 透過選單的「使用說明」或輸入「說明」，機器人會回傳使用教學
 ![](https://imgur.com/3LWMzmS.png)
 
-
 + 透過選單的「地震資訊」或輸入「地震」或「地震資訊」，機器人會回傳最新一筆的地震資料及地震圖
 ![](https://imgur.com/rEd6fko.png)
-
 
 + 透過選單的「雷達回波」或輸入「雷達回波圖」或「雷達回波」，機器人會回傳最新的雷達回波圖，
 ![](https://imgur.com/undefined.png)
 
++ 使用 LINE 預設的功能提供地址，就能回傳該地址的天氣預報和空氣品質資訊。
+![](https://imgur.com/pYYQXpk.png)
 
-+ 選擇「最近三個月」，會顯示最近三個月以來的匯率變化
-![](https://i.imgur.com/53RtTUm.png)
-
-+ 選擇「最近兩週」，會顯示最近兩週以來的匯率變化
-![](https://i.imgur.com/yEeQ5RE.png)
 
 
 ## Fsm 結構圖
