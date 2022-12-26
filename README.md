@@ -13,7 +13,7 @@
 
 ID：@287mwgze
 
-![](https://imgur.com/m8ity4v))
+![](https://imgur.com/m8ity4v)
 
 ### 功能
 這是它的選單
