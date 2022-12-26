@@ -7,10 +7,10 @@
 ###基本資訊
 名稱：weather
 
-首先先幫我加入一下好友><
+首先先幫我加入一下好友
 可以使用搜尋ID(記得要打"@")或掃QR Code
-
-![](https://i.imgur.com/q92Guqj.png)
+ID：@287mwgze
+![](https://imgur.com/m8ity4v))
 
 ### 功能
 這是它的選單
