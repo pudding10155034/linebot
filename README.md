@@ -34,6 +34,6 @@ ID：@287mwgze
 
 
 ## Fsm 結構圖
-![](https://i.imgur.com/zEHiCcn.png)
+![](https://imgur.com/Kbv3PBQ.png)
 
 
