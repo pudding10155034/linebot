@@ -30,7 +30,7 @@ ID：@287mwgze
 ![](https://imgur.com/rEd6fko.png)
 
 + 透過選單的「雷達回波」或輸入「雷達回波圖」或「雷達回波」，機器人會回傳最新的雷達回波圖，
-![](https://imgur.com/undefined.png)
+![](https://imgur.com/SzamXrH.png)
 
 + 使用 LINE 預設的功能提供地址，就能回傳該地址的天氣預報和空氣品質資訊。
 ![](https://imgur.com/pYYQXpk.png)
