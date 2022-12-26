@@ -17,7 +17,7 @@ ID：@287mwgze
 
 ### 功能
 這是它的選單
-![](https://i.imgur.com/9xl8U9a.png)
+![](https://imgur.com/y6RylRi.png)
 
 1. 它可以查詢即時匯率
 2. 它可以查看最近三個月/兩週的趨勢圖
